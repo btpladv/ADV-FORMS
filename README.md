@@ -9,8 +9,6 @@
 
 ZIP-folder split.zip contais CSV-files with the names of the images used for training, test and validation.
 
-Folder images contains ZIP-folders with the corresponding images.
-
 ADV-FORMS_annotations_cleaned.json contains JSON objects for each annotated image file:
 
 "objects" contains a list of bounding boxes.
